@@ -1,7 +1,7 @@
-<b>Features</b>
+<b style="color:blue ">Voice recognition technology used in Generative AI<b>
 
+<b>Features :</b>
 Engine Support: VoiceRecognitionLib supports multiple speech recognition engines, including Google Speech Recognition, IBM Speech to Text, CMU Sphinx, and more.
-
 Online and Offline Recognition: Perform speech recognition tasks both online and offline, depending on your requirements and available resources.
 Language Support: Recognize speech in various languages and dialects, with support for multilingual recognition in some engines.
 Easy Integration: Simple and intuitive API for integrating speech recognition capabilities into your Python applications and projects.
