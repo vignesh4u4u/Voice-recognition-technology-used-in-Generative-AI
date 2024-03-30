@@ -1,0 +1,9 @@
+speech_recognition
+
+huggingface_hub
+
+pyaudio
+ 
+wheel
+ 
+pipwin
